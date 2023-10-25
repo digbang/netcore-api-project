@@ -25,3 +25,7 @@
   }
 }
 ```
+## Tools
+> **Entity Framework** https://learn.microsoft.com/en-us/ef/core/cli/dotnet
+>
+> **Scaffolding** https://learn.microsoft.com/en-us/aspnet/core/fundamentals/tools/dotnet-aspnet-codegenerator
