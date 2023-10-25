@@ -13,7 +13,7 @@
 ## Server
 > **RUN** `docker-compose exec app bash`
 >
-> **RUN (run)** `dotnet run --urls http://0.0.0.0:80` or `dotnet watch run --urls http://0.0.0.0:80`
+> **RUN** `dotnet run --urls http://0.0.0.0:80` or `dotnet watch run --urls http://0.0.0.0:80`
 
 ## Endpoints
 > `GET /api/ping`
