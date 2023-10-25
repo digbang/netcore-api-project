@@ -1,9 +1,9 @@
 # netcore-api-project
 
 ## Setup
-> `copy .env.example .env`
->
 > `docker-compose up -d --build`
+>
+> `copy .env.example .env` (after build, inside app container)
 
 ## Containers
 > **App** `docker-compose exec app bash`
